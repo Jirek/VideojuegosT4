@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Escenas/Nivel1.unity
+    guid: 4d6daab0897299e4d8ea84c808b5983d
+  - enabled: 1
+    path: Assets/Escenas/Nivel2.unity
+    guid: b678e38f3a5c2a444ac7e87fdb881ce4
+  - enabled: 1
+    path: Assets/Escenas/Nivel3.unity
+    guid: aaed968c3635a984d8c9338b315e7118
+  - enabled: 1
+    path: Assets/Escenas/FinJuego.unity
+    guid: 2d25b6049560d674dae36b88e309c78e
+  - enabled: 1
+    path: Assets/Escenas/JuegoPerdido.unity
+    guid: 68736055934ab3e4287172205930f79e
